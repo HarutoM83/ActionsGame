@@ -168,8 +168,8 @@ MonoBehaviour:
     y: 0
     width: 234.2857
     height: 768
-  m_MinSize: {x: 202, y: 226}
-  m_MaxSize: {x: 4002, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -220,8 +220,8 @@ MonoBehaviour:
     y: 0
     width: 342.85718
     height: 768
-  m_MinSize: {x: 276, y: 76}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -246,8 +246,8 @@ MonoBehaviour:
     y: 0
     width: 691.4286
     height: 394.2857
-  m_MinSize: {x: 201, y: 226}
-  m_MaxSize: {x: 4001, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -604,13 +604,12 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -46892
-      - m_Data: -46632
-      - m_Data: -45202
+      - m_Data: -46610
+      - m_Data: -45200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Cube
-        m_OriginalName: Cube
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -618,10 +617,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: -50378
+          m_Data: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 7}
@@ -732,7 +731,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -785,8 +784,9 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 61028
-    - m_Data: 61070
+    - m_Data: 61062
+    - m_Data: 61168
+    - m_Data: 61172
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1636,11 +1636,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0016188895, y: 0.00038187072, z: 0.00000054167464, w: -1.0000006}
     speed: 2
-    m_Value: {x: 0.0016188861, y: -0.00047529145, z: -0.0000008459752, w: -0.99999857}
+    m_Value: {x: 0.0016188864, y: 0.00038187, z: 0.0000005416736, w: -0.9999987}
   m_Size:
-    m_Target: 6.746866
+    m_Target: 9.594723
     speed: 2
-    m_Value: 7.064781
+    m_Value: 9.594723
   m_Ortho:
     m_Target: 0
     speed: 2
