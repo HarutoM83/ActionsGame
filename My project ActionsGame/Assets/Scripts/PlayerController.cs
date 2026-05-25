@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float movespeed;
     [SerializeField] float dashspeed;
     [SerializeField] float jumpspeed;
-    private float holdtime=1f;
+    private float holdtime;
     bool isGrounded = false;
     bool isDashing = false;
 
