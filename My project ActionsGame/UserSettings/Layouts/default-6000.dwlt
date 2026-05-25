@@ -537,20 +537,6 @@ MonoBehaviour:
       layout: 4
       size: {x: 0, y: 0}
       sizeOverridden: 0
-    - dockPosition: 1
-      containerId: overlay-toolbar__top
-      displayed: 0
-      id: Services/Environment
-      index: 8
-      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
-      floating: 0
-      collapsed: 0
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 0
-      layout: 4
-      size: {x: 0, y: 0}
-      sizeOverridden: 0
     m_ContainerData:
     - containerId: overlay-toolbar__top
       scrollOffset: 0
@@ -604,8 +590,9 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -46610
-      - m_Data: -45200
+      - m_Data: -46622
+      - m_Data: -45234
+      - m_Data: 61160
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -730,8 +717,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Scripts
+    m_Folders: []
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -784,9 +770,9 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 61062
-    - m_Data: 61168
-    - m_Data: 61172
+    - m_Data: 61086
+    - m_Data: 61130
+    - m_Data: 61132
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -804,7 +790,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 8}
+      m_ClientGUIView: {fileID: 9}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1586,9 +1572,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.50894505, y: 6.378788, z: 1.1102829}
+    m_Target: {x: 3.959263, y: 1.1387229, z: 3.5488071}
     speed: 2
-    m_Value: {x: 0.50894505, y: 6.378788, z: 1.1102829}
+    m_Value: {x: 3.959263, y: 1.1387229, z: 3.5488071}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1634,13 +1620,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0016188895, y: 0.00038187072, z: 0.00000054167464, w: -1.0000006}
+    m_Target: {x: -0.16222765, y: -0.008080983, z: 0.001330154, w: -0.9867221}
     speed: 2
-    m_Value: {x: 0.0016188864, y: 0.00038187, z: 0.0000005416736, w: -0.9999987}
+    m_Value: {x: -0.16222721, y: -0.008080961, z: 0.0013301505, w: -0.98671955}
   m_Size:
-    m_Target: 9.594723
+    m_Target: 28.338108
     speed: 2
-    m_Value: 9.594723
+    m_Value: 28.338108
   m_Ortho:
     m_Target: 0
     speed: 2
